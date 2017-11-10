@@ -1,0 +1,41 @@
+GIT is a Version Control System (VCS) for tracking changes in computer files
+
+	- Distributed version control (don't need to be on the same server) 
+	- Coordinates work between multiple developers
+	- Who made what changes and when
+	- Rever back at any time
+	- Local & remote repositories 
+
+Basic Commands
+	- $ git init // Initialise local GIT repository
+	- $ git add <file> // Add file(s) to the staging area for a commit
+	- $ git add -A // Adds all files to the staging area for a commit
+	- $ git reset // Removes all files from the staging area
+	- $ git reset <file> // Removes a file from the staging area
+	- $ git status // Check status of working tree
+	- $ git log // Shows the commit just made & info etc
+	- $ touch .gitignore // Creates a gitignore file which allows you to remove files from commit
+	- $ git commit // Commit changes in index
+	- $ :wq // To exit the commit screen
+	- $ git commit -m 'comment' // Commits straight away with comment
+	- $ git diff // Provides info about changes in files (code etc) 
+	- $ clear // clears screen
+	- $ git push // Push to remote repository
+	- $ git pull // Pull latest from remote repository
+	- $ git clone // Clone repository into a new directory
+	- $ git branch name // Creates a branch
+	- $ git checkout name // Switches to branch 'name' 
+	- $ git merge name // Merges branch with master once the branch functionality is complete
+
+
+
+
+
+
+
+
+
+
+
+
+
